@@ -7,6 +7,7 @@ from typing import Dict, List
 
 import flet as ft
 from flet.plotly_chart import PlotlyChart
+
 import plotly.graph_objects as go
 
 from . import (
